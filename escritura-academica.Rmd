@@ -1,0 +1,183 @@
+--- 
+title: "Cómo redactar un artículo científico en Ciencias Sociales"
+author: "Nicolás Robinson-Garcia"
+date: "`r Sys.Date()`"
+knit: 'bookdown::render_book'
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Materiales de la charla sobre escritura académica. Curso de la Escuela de Doctorado de Ciencias Sociales de la UGR."
+url: 'https://elrobin.github.io/escritura-academica'
+---
+
+# Bienvenido/a {-}
+
+Mini descripción del curso y del profe
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction {#intro}
+
+Filosofía general: ¿por qué escribir bien y por qué publicar?
+- El objetivo de la investigación
+- Mini recorrido histórico del sistema de publicación científica
+
+## Las fases de la carrera académica
+
+- Las tres comunidades de Gläser y Laudel
+
+## El científico como escritor obrero
+Las lecciones de Stephen King:
+- Nadie te considerará para un Nobel de literatura, pero serás el más leído
+
+## Resistencia al rechazo
+> 'this is good. Not for us, but good. You have talent. Submit again'
+
+- Aprende del rechazo y tómatelo con deportividad
+- Conócete a tí mismo y encuentra tu voz
+
+
+## Escribe para tí, revisa para los demás
+
+>when you write a story, you're telling yourself the story [...] When you rewrite, your main job is taking out all the things that are not the story
+
+
+<!--chapter:end:01-intro.Rmd-->
+
+# El artículo científico
+
+## ¿Qué dice la APA?
+
+## Tipos de trabajos científicos
+
+<!--chapter:end:02-articulo-cientifico.Rmd-->
+
+# La elección del tema de investigación
+
+## Anatomía de una idea
+
+- originalidad
+- inédito
+- novedad
+- nada es de nadie hasta que se publica (prioridad científica)
+
+## Herramientas de búsqueda bibliográfica
+
+- La serendipia y cómo alimentarla
+- El papel de la revisión bibliográfica
+- Herramientas de búsqueda
+
+<!--chapter:end:03-el-tema.Rmd-->
+
+# La autoría científica
+
+## ¿Qué es un autor?
+
+- Definición según la ICMJE
+- El trabajo colaborativo
+- Los autores fantasma
+- Los autores de cortesía
+
+## Las contribuciones
+
+- Nuevo paradigma de autoría
+- Tipos de autores según su contribución
+- Los riesgos de la hiper-especialización
+- Taxonomía CREDIT
+
+<!--chapter:end:04-la-autoria.Rmd-->
+
+# Organización y estructura del documento
+
+## Introducción
+
+## Material y métodos
+
+## Resultados
+
+## Discusión
+
+## Secciones adicionales
+
+### Antecedentes/Revisión bibliográfica
+
+### Marco conceptual/Hipótesis
+
+### Objetivos
+
+### Conclusiones
+
+<!--chapter:end:05-estructura.Rmd-->
+
+# Cuestiones de estilo
+
+## La historia
+
+## Estilo y citación
+- Por qué citar
+- Cuándo citar
+- Qué citar
+- Cómo citar
+
+ 
+## Conoce a tu público
+
+<!--chapter:end:06-estilo.Rmd-->
+
+# Tablas y figuras
+
+## ¿Dónde y cuántas figuras incluir? 
+Utiliza las figuras como un recurso discursivo para:
+Sintetizar y resumir procesos. Ejemplo
+Facilitar la interpretación de resultados. Ejemplo
+Mostrar ejemplos a tipo ilustrativo. Ejemplo
+
+
+## Características básicas de una tabla/figura
+La información de tablas y figuras no debe ser redundante.
+Las figuras deben ser explanatorias en interpretables por sí solas
+Cuida aspectos que puedan llevar a malas interpretaciones (e.g., escala de los ejes)
+Invierte tiempo en preparar figuras bonitas.
+Figuras con excel: Ejemplo feo, ejemplo bonito.
+Figuras con R: Ejemplo feo, ejemplo bonito
+
+# Software para crear figuras
+
+<!--chapter:end:07-tablas-figuras.Rmd-->
+
+# Edición y preparación del manuscrito
+
+## Los metadatos
+- Portada
+- Título
+- Resumen
+- Palabras Clave
+
+## Formatos de revista y plantillas
+- Referencias bibliográficas
+- Overleaf y rticles
+
+<!--chapter:end:08-edicion.Rmd-->
+
+# Agradecimientos y financiación
+
+- Pide a tus colegas que revisen tus manuscritos o secciones específicas y luego agradéceselo
+- Indica si has recibido financiación y por parte de qué entidad
+- Si versiones preliminares o algunos resultados fueron presentados en conferencias o seminarios de investigación, inclúyelo también
+- Sé agradecido con los revisores (si se lo merecen)
+- También sé agradecido con compañeros que te hayan ayudado en la confección del trabajo pero no sean autores
+
+<!--chapter:end:09-agradecimientos.Rmd-->
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+<!--chapter:end:10-lecturas.Rmd-->
+
