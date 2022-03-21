@@ -1,3 +1,18 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+# Tablas y figuras
+
+## ¿Dónde y cuántas figuras incluir? 
+Utiliza las figuras como un recurso discursivo para:
+Sintetizar y resumir procesos. Ejemplo
+Facilitar la interpretación de resultados. Ejemplo
+Mostrar ejemplos a tipo ilustrativo. Ejemplo
+
+
+## Características básicas de una tabla/figura
+La información de tablas y figuras no debe ser redundante.
+Las figuras deben ser explanatorias en interpretables por sí solas
+Cuida aspectos que puedan llevar a malas interpretaciones (e.g., escala de los ejes)
+Invierte tiempo en preparar figuras bonitas.
+Figuras con excel: Ejemplo feo, ejemplo bonito.
+Figuras con R: Ejemplo feo, ejemplo bonito
+
+# Software para crear figuras

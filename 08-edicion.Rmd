@@ -1,3 +1,11 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+# Edición y preparación del manuscrito
+
+## Los metadatos
+- Portada
+- Título
+- Resumen
+- Palabras Clave
+
+## Formatos de revista y plantillas
+- Referencias bibliográficas
+- Overleaf y rticles

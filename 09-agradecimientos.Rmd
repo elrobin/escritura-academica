@@ -1,3 +1,7 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+# Agradecimientos y financiación
+
+- Pide a tus colegas que revisen tus manuscritos o secciones específicas y luego agradéceselo
+- Indica si has recibido financiación y por parte de qué entidad
+- Si versiones preliminares o algunos resultados fueron presentados en conferencias o seminarios de investigación, inclúyelo también
+- Sé agradecido con los revisores (si se lo merecen)
+- También sé agradecido con compañeros que te hayan ayudado en la confección del trabajo pero no sean autores

@@ -1,7 +1,15 @@
-# Applications
+# La autoría científica
 
-Some _significant_ applications are demonstrated in this chapter.
+## ¿Qué es un autor?
 
-## Example one
+- Definición según la ICMJE
+- El trabajo colaborativo
+- Los autores fantasma
+- Los autores de cortesía
 
-## Example two
+## Las contribuciones
+
+- Nuevo paradigma de autoría
+- Tipos de autores según su contribución
+- Los riesgos de la hiper-especialización
+- Taxonomía CREDIT

@@ -1,3 +1,19 @@
-# Final Words
+# Organización y estructura del documento
 
-We have finished a nice book.
+## Introducción
+
+## Material y métodos
+
+## Resultados
+
+## Discusión
+
+## Secciones adicionales
+
+### Antecedentes/Revisión bibliográfica
+
+### Marco conceptual/Hipótesis
+
+### Objetivos
+
+### Conclusiones
