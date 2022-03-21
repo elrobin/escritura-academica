@@ -1,21 +1,25 @@
 # Introduction {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+Filosofía general: ¿por qué escribir bien y por qué publicar?
+- El objetivo de la investigación
+- Mini recorrido histórico del sistema de publicación científica
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+## Las fases de la carrera académica
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+- Las tres comunidades de Gläser y Laudel
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+## El científico como escritor obrero
+Las lecciones de Stephen King:
+- Nadie te considerará para un Nobel de literatura, pero serás el más leído
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+## Resistencia al rechazo
+> 'this is good. Not for us, but good. You have talent. Submit again'
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+- Aprende del rechazo y tómatelo con deportividad
+- Conócete a tí mismo y encuentra tu voz
+
+
+## Escribe para tí, revisa para los demás
+
+>when you write a story, you're telling yourself the story [...] When you rewrite, your main job is taking out all the things that are not the story
+
