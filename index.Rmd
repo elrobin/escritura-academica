@@ -16,6 +16,14 @@ url: 'https://elrobin.github.io/escritura-academica'
 
 # Bienvenido/a {-}
 
-Mini descripción del curso y del profe
+![](images/academic_writing.jpg){width=100%}
+
+**Curso:** Cómo escribir y publicar artículos científicos en Ciencias Sociales y Humanidades.
+
+**Organiza:** Escuela Internacional de Posgrado de la Universidad de Granada
+
+**Imparten:** [Evaristo Jiménez-Contreras](https://www.ugr.es/en/staff/evaristo-jimenez-contreras), [Daniel Torres-Salinas](https://sites.google.com/go.ugr.es/torressalinas) y [Nicolás Robinson-García](https://nrobinsongarcia.com)
+
+Esta página web contiene el material impartido por Nicolás Robinson-García para la sesión sobre redacción científica. En esta sesión trataremos diferentes cuestiones prácticas sobre la preparación del manuscrito académico, edición y estilo.
 
 
