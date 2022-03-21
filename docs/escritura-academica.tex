@@ -1,0 +1,345 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\title{Cómo redactar un artículo científico en Ciencias Sociales}
+\author{Nicolás Robinson-Garcia}
+\date{2022-03-21}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Cómo redactar un artículo científico en Ciencias Sociales},
+  pdfauthor={Nicolás Robinson-Garcia},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{bienvenidoa}{%
+\chapter*{Bienvenido/a}\label{bienvenidoa}}
+\addcontentsline{toc}{chapter}{Bienvenido/a}
+
+Mini descripción del curso y del profe
+
+\hypertarget{intro}{%
+\chapter{Introduction}\label{intro}}
+
+Filosofía general: ¿por qué escribir bien y por qué publicar?
+- El objetivo de la investigación
+- Mini recorrido histórico del sistema de publicación científica
+
+\hypertarget{las-fases-de-la-carrera-acaduxe9mica}{%
+\section{Las fases de la carrera académica}\label{las-fases-de-la-carrera-acaduxe9mica}}
+
+\begin{itemize}
+\tightlist
+\item
+  Las tres comunidades de Gläser y Laudel
+\end{itemize}
+
+\hypertarget{el-cientuxedfico-como-escritor-obrero}{%
+\section{El científico como escritor obrero}\label{el-cientuxedfico-como-escritor-obrero}}
+
+Las lecciones de Stephen King:
+- Nadie te considerará para un Nobel de literatura, pero serás el más leído
+
+\hypertarget{resistencia-al-rechazo}{%
+\section{Resistencia al rechazo}\label{resistencia-al-rechazo}}
+
+\begin{quote}
+`this is good. Not for us, but good. You have talent. Submit again'
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Aprende del rechazo y tómatelo con deportividad
+\item
+  Conócete a tí mismo y encuentra tu voz
+\end{itemize}
+
+\hypertarget{escribe-para-tuxed-revisa-para-los-demuxe1s}{%
+\section{Escribe para tí, revisa para los demás}\label{escribe-para-tuxed-revisa-para-los-demuxe1s}}
+
+\begin{quote}
+when you write a story, you're telling yourself the story {[}\ldots{]} When you rewrite, your main job is taking out all the things that are not the story
+\end{quote}
+
+\hypertarget{el-artuxedculo-cientuxedfico}{%
+\chapter{El artículo científico}\label{el-artuxedculo-cientuxedfico}}
+
+\hypertarget{quuxe9-dice-la-apa}{%
+\section{¿Qué dice la APA?}\label{quuxe9-dice-la-apa}}
+
+\hypertarget{tipos-de-trabajos-cientuxedficos}{%
+\section{Tipos de trabajos científicos}\label{tipos-de-trabajos-cientuxedficos}}
+
+\hypertarget{la-elecciuxf3n-del-tema-de-investigaciuxf3n}{%
+\chapter{La elección del tema de investigación}\label{la-elecciuxf3n-del-tema-de-investigaciuxf3n}}
+
+\hypertarget{anatomuxeda-de-una-idea}{%
+\section{Anatomía de una idea}\label{anatomuxeda-de-una-idea}}
+
+\begin{itemize}
+\tightlist
+\item
+  originalidad
+\item
+  inédito
+\item
+  novedad
+\item
+  nada es de nadie hasta que se publica (prioridad científica)
+\end{itemize}
+
+\hypertarget{herramientas-de-buxfasqueda-bibliogruxe1fica}{%
+\section{Herramientas de búsqueda bibliográfica}\label{herramientas-de-buxfasqueda-bibliogruxe1fica}}
+
+\begin{itemize}
+\tightlist
+\item
+  La serendipia y cómo alimentarla
+\item
+  El papel de la revisión bibliográfica
+\item
+  Herramientas de búsqueda
+\end{itemize}
+
+\hypertarget{la-autoruxeda-cientuxedfica}{%
+\chapter{La autoría científica}\label{la-autoruxeda-cientuxedfica}}
+
+\hypertarget{quuxe9-es-un-autor}{%
+\section{¿Qué es un autor?}\label{quuxe9-es-un-autor}}
+
+\begin{itemize}
+\tightlist
+\item
+  Definición según la ICMJE
+\item
+  El trabajo colaborativo
+\item
+  Los autores fantasma
+\item
+  Los autores de cortesía
+\end{itemize}
+
+\hypertarget{las-contribuciones}{%
+\section{Las contribuciones}\label{las-contribuciones}}
+
+\begin{itemize}
+\tightlist
+\item
+  Nuevo paradigma de autoría
+\item
+  Tipos de autores según su contribución
+\item
+  Los riesgos de la hiper-especialización
+\item
+  Taxonomía CREDIT
+\end{itemize}
+
+\hypertarget{organizaciuxf3n-y-estructura-del-documento}{%
+\chapter{Organización y estructura del documento}\label{organizaciuxf3n-y-estructura-del-documento}}
+
+\hypertarget{introducciuxf3n}{%
+\section{Introducción}\label{introducciuxf3n}}
+
+\hypertarget{material-y-muxe9todos}{%
+\section{Material y métodos}\label{material-y-muxe9todos}}
+
+\hypertarget{resultados}{%
+\section{Resultados}\label{resultados}}
+
+\hypertarget{discusiuxf3n}{%
+\section{Discusión}\label{discusiuxf3n}}
+
+\hypertarget{secciones-adicionales}{%
+\section{Secciones adicionales}\label{secciones-adicionales}}
+
+\hypertarget{antecedentesrevisiuxf3n-bibliogruxe1fica}{%
+\subsection{Antecedentes/Revisión bibliográfica}\label{antecedentesrevisiuxf3n-bibliogruxe1fica}}
+
+\hypertarget{marco-conceptualhipuxf3tesis}{%
+\subsection{Marco conceptual/Hipótesis}\label{marco-conceptualhipuxf3tesis}}
+
+\hypertarget{objetivos}{%
+\subsection{Objetivos}\label{objetivos}}
+
+\hypertarget{conclusiones}{%
+\subsection{Conclusiones}\label{conclusiones}}
+
+\hypertarget{cuestiones-de-estilo}{%
+\chapter{Cuestiones de estilo}\label{cuestiones-de-estilo}}
+
+\hypertarget{la-historia}{%
+\section{La historia}\label{la-historia}}
+
+\hypertarget{estilo-y-citaciuxf3n}{%
+\section{Estilo y citación}\label{estilo-y-citaciuxf3n}}
+
+\begin{itemize}
+\tightlist
+\item
+  Por qué citar
+\item
+  Cuándo citar
+\item
+  Qué citar
+\item
+  Cómo citar
+\end{itemize}
+
+\hypertarget{conoce-a-tu-puxfablico}{%
+\section{Conoce a tu público}\label{conoce-a-tu-puxfablico}}
+
+\hypertarget{tablas-y-figuras}{%
+\chapter{Tablas y figuras}\label{tablas-y-figuras}}
+
+\hypertarget{duxf3nde-y-cuuxe1ntas-figuras-incluir}{%
+\section{¿Dónde y cuántas figuras incluir?}\label{duxf3nde-y-cuuxe1ntas-figuras-incluir}}
+
+Utiliza las figuras como un recurso discursivo para:
+Sintetizar y resumir procesos. Ejemplo
+Facilitar la interpretación de resultados. Ejemplo
+Mostrar ejemplos a tipo ilustrativo. Ejemplo
+
+\hypertarget{caracteruxedsticas-buxe1sicas-de-una-tablafigura}{%
+\section{Características básicas de una tabla/figura}\label{caracteruxedsticas-buxe1sicas-de-una-tablafigura}}
+
+La información de tablas y figuras no debe ser redundante.
+Las figuras deben ser explanatorias en interpretables por sí solas
+Cuida aspectos que puedan llevar a malas interpretaciones (e.g., escala de los ejes)
+Invierte tiempo en preparar figuras bonitas.
+Figuras con excel: Ejemplo feo, ejemplo bonito.
+Figuras con R: Ejemplo feo, ejemplo bonito
+
+\hypertarget{software-para-crear-figuras}{%
+\chapter{Software para crear figuras}\label{software-para-crear-figuras}}
+
+\hypertarget{ediciuxf3n-y-preparaciuxf3n-del-manuscrito}{%
+\chapter{Edición y preparación del manuscrito}\label{ediciuxf3n-y-preparaciuxf3n-del-manuscrito}}
+
+\hypertarget{los-metadatos}{%
+\section{Los metadatos}\label{los-metadatos}}
+
+\begin{itemize}
+\tightlist
+\item
+  Portada
+\item
+  Título
+\item
+  Resumen
+\item
+  Palabras Clave
+\end{itemize}
+
+\hypertarget{formatos-de-revista-y-plantillas}{%
+\section{Formatos de revista y plantillas}\label{formatos-de-revista-y-plantillas}}
+
+\begin{itemize}
+\tightlist
+\item
+  Referencias bibliográficas
+\item
+  Overleaf y rticles
+\end{itemize}
+
+\hypertarget{agradecimientos-y-financiaciuxf3n}{%
+\chapter{Agradecimientos y financiación}\label{agradecimientos-y-financiaciuxf3n}}
+
+\begin{itemize}
+\tightlist
+\item
+  Pide a tus colegas que revisen tus manuscritos o secciones específicas y luego agradéceselo
+\item
+  Indica si has recibido financiación y por parte de qué entidad
+\item
+  Si versiones preliminares o algunos resultados fueron presentados en conferencias o seminarios de investigación, inclúyelo también
+\item
+  Sé agradecido con los revisores (si se lo merecen)
+\item
+  También sé agradecido con compañeros que te hayan ayudado en la confección del trabajo pero no sean autores
+\end{itemize}
+
+  \bibliography{book.bib}
+
+\end{document}
