@@ -17,13 +17,22 @@ Utiliza las figuras como un recurso discursivo para:
 - Facilitar la interpretación de resultados. [Ejemplo](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.22837)
 - Mostrar ejemplos a tipo ilustrativo. [Ejemplo](https://link.springer.com/content/pdf/10.1007/s11192-013-1157-7.pdf)
 
+## Cuestiones de estética
+
+- Sé consistente a lo largo del paper - [Ejemplo](https://doi.org/10.31235/osf.io/ve7d3)
+- Utiliza paletas de colores - Explora [esta web](https://www.color-hex.com/color-palettes/)
+- Baraja opciones creativas para visualizar tus datos - [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- Si quieres ponerte exquisito utiliza una paleta para los daltónicos - [La paleta Viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+
+Si te interesa el tema de la visualización de datos te recomiendo [este libro online de Claus O. Wilke](https://clauswilke.com/dataviz/).
+
 ## Software para crear figuras
 
 Listado no exhaustivo:
 
 - Excel
-- RStudio (paquetes ggplot2 y ggpubr)
-- Vosviewer
-- Tableau
-- Inkscape
-- Gephi
+- [RStudio](https://www.rstudio.com/) (paquetes [ggplot2](https://ggplot2.tidyverse.org/) y [ggpubr](http://sthda.com/english/articles/24-ggpubr-publication-ready-plots/))
+- [Vosviewer](https://www.vosviewer.com/)
+- [Tableau](https://www.tableau.com/)
+- [Inkscape](https://inkscape.org/)
+- [Gephi](https://gephi.org/)

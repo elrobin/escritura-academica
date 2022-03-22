@@ -24,6 +24,7 @@ decálogo-de-buenas-prácticas
 tablas-y-figuras
 características-básicas-de-una-tablafigura
 dónde-y-cuántas-figuras-incluir
+cuestiones-de-estética
 software-para-crear-figuras
 edición-y-preparación-del-manuscrito
 los-metadatos

@@ -8,7 +8,7 @@ A pesar de la rigidez que impone la estructura IMRyD en un artículo científico
 
 Una buena historia debe de ser directa, fluida y concisa. Los estudios científicos son ya lo suficientemente complejos como para que a eso sumemos una lectura oscura y difícil.
 
-<center>**¡Muy importante!</center>
+<center>**¡Muy importante!**</center>
 
 1. **Conoce a tu público**. Tienes dos tipos de lectores a los que convencer con diferentes niveles de exigencia:
     - _El revisor_. Serán probablemente las personas que más tiempo le dediquen a la lectura de tu trabajo. Tu labor es convencerles sobre cuatro aspectos fundamentales de tu trabajo:
