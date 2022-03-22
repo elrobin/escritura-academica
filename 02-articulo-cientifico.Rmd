@@ -1,5 +1,66 @@
 # El artículo científico
 
+Existe una amplia oferta de trabajos y libros académicos en los que indican cuales son las pautas a seguir para escribir un trabajo académico. En el ámbito de las Ciencias Sociales, **el Manual de la American Psychological Association será vuestra guía espiritual**.
+
+<center>![](images/apa.jpg){width=50%}</center>
+
 ## ¿Qué dice la APA?
 
+- El artículo de revista es el principal medio de comunicación en la ciencia
+- Los artículos de revista reportan normalmente estudios empíricos, revisiones de la literatura, trabajos teóricos, metodológicos o casos de estudio.
+
+Sus principales características son:
+
+1. Se trata de publicaciones **inéditas.**
+2. Son textos que han sido sometidos a un **proceso de revisión por pares**.
+3. Es material de **archivo** y por tanto es posible recuperarlo en el futuro.
+
 ## Tipos de trabajos científicos
+
+### Estudios empíricos {-}
+
+- Reportan resultados **originales**
+- Pueden ser de carácter descriptivo o explanatorio, presentando hipótesis que luego son testadas con **datos**.
+- Normalmente siguen una **estructura IMRyD**: 
+  - Introducción 
+  - Métodos 
+  - Resultados 
+  - Discusión
+
+### Revisiones bibliográficas {-}
+
+- **Sintetizan la investigación existente hasta el momento** sobre un tema.
+- Hay de distintos tipos: 
+  - **Revisiones narrativas**. Son las más comunes en Ciencias Sociales. [Ejemplo clásico](https://www.sciencedirect.com/science/article/pii/S1751157709000339), [ejemplo de revisión crítica de la literatura](https://doi.org/10.1093/reseval/rvaa008).
+  - **Revisiones sistemáticas** [Ejemplo](https://www.sciencedirect.com/science/article/pii/S0360131512000619?via%3Dihub)
+  - **Meta-análisis** Más comunes en las Ciencias Biomédicas, aunque también en algunas ramas de la Psicología. Si te interesa este tipo de publicación, te recomiendo que leas sobre la [metodología PRISMA](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000097&utm_medium=email&utm_source=transaction). [Ejemplo](https://bjsm.bmj.com/content/bjsports/52/3/154.full.pdf)
+- Deben de incluir la siguiente información básica: 
+  - Definición del problema 
+  - Resumen de investigaciones prevas sobre el tema 
+  - Relaciones, vacíos, contradicciones o inconsistencias encontradas 
+  - Pasos a seguir en el futuro.
+
+### Estudios teóricos {-}
+
+- Suponen **avances en la teoría existente** en un campo, basándose en literatura previa.
+- Tienen una estructura similar a las revisiones.
+- Sólo incluyen datos empíricos cuando apoyan los argumentos del trabajo.
+- Presentan nuevas teorías o analizan teorías existentes demostrando las ventajas de una teoría sobre otra.
+- Los autores deberan de demostrar teóricamente la consistencia interna y validez externa de aquello que proponen.
+
+### Trabajos metodológicos {-}
+
+- Presentan nuevas técnicas o avances metodológicos, o modificaciones de aproximaciones previas.
+- Presentan el método propuesto de manera clara y didáctica 
+- El aparataje más técnico se incluye en apéndices. [Ejemplo](http://dx.doi.org/10.1002/asi.22837).
+- Comparan la técnica presentada con otras similares.
+
+### Casos de estudio {-}
+
+Muy recomendable el libro [Case Study Research and Applications: Design and Methods](https://drive.google.com/file/d/1a5Ya1-JObN_p-qshv7P5FGZwMpshoaLb/view) por Robert K. Yin. 
+
+- Muestran materiales obtenidos trabajando con grupos o individuos o conjuntos de datos que **no necesariamente** representan una población.
+- El objetivo de los casos de estudio es ilustrar un problema o indicar posibles soluciones. [Un ejemplo](https://osf.io/preprints/socarxiv/ve7d3/)
+- Pueden combinar diferentes tipos de metodologías.
+- Suelen servir para responder a preguntas que empiezan por _cómo_ o _por qué_ en lugar de _qué_. 
+- Además de las Ciencias Sociales son muy comunes en las Ciencias Biomédicas.

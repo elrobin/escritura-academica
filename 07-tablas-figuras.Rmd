@@ -1,18 +1,29 @@
 # Tablas y figuras
 
-## ¿Dónde y cuántas figuras incluir? 
-Utiliza las figuras como un recurso discursivo para:
-Sintetizar y resumir procesos. Ejemplo
-Facilitar la interpretación de resultados. Ejemplo
-Mostrar ejemplos a tipo ilustrativo. Ejemplo
-
-
 ## Características básicas de una tabla/figura
-La información de tablas y figuras no debe ser redundante.
-Las figuras deben ser explanatorias en interpretables por sí solas
-Cuida aspectos que puedan llevar a malas interpretaciones (e.g., escala de los ejes)
-Invierte tiempo en preparar figuras bonitas.
-Figuras con excel: Ejemplo feo, ejemplo bonito.
-Figuras con R: Ejemplo feo, ejemplo bonito
 
-# Software para crear figuras
+- La información de tablas y figuras no debe ser redundante.
+- Las figuras deben ser explanatorias en interpretables por sí solas
+- Cuida aspectos que puedan llevar a malas interpretaciones (e.g., escala de los ejes)
+- Invierte tiempo en preparar figuras bonitas.
+  - Figuras con excel: [Ejemplo feo](https://link.springer.com/article/10.1007/s11192-018-2738-2), [ejemplo bonito](https://www.sciencedirect.com/science/article/pii/S1751157713000060).
+  - Figuras con R: [Ejemplo feo](https://doi.org/10.1371/journal.pone.0068258.s001), [ejemplo bonito](https://doi.org/10.7717/peerj.9410/fig-4)
+
+## ¿Dónde y cuántas figuras incluir? 
+
+Utiliza las figuras como un recurso discursivo para:
+
+- Sintetizar y resumir procesos. [Ejemplo](https://doi.org/10.7717/peerj.9410/fig-1)
+- Facilitar la interpretación de resultados. [Ejemplo](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.22837)
+- Mostrar ejemplos a tipo ilustrativo. [Ejemplo](https://link.springer.com/content/pdf/10.1007/s11192-013-1157-7.pdf)
+
+## Software para crear figuras
+
+Listado no exhaustivo:
+
+- Excel
+- RStudio (paquetes ggplot2 y ggpubr)
+- Vosviewer
+- Tableau
+- Inkscape
+- Gephi

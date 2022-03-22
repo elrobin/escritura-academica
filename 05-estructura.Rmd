@@ -2,18 +2,67 @@
 
 ## Introducción
 
+- Presenta el problema que se pretende resolver y enmárcalo dentro de la literatura.
+- El objetivo es _enganchar_ al lector. Debe responder a las siguientes preguntas:
+  - ¿De qué va el trabajo? Lo que en inglés se denomina **scope**.
+  - ¿Por qué es relevante? Aquí se identifica el problema en cuestión a abordar y se argumenta tanto su importancia como el hecho de que no haya sido abordado.
+- Se establecen las preguntas u objetivos generales del trabajo
+- Se dan unas nociones generales sobre el estudio que se va a presentar. [Ejemplo](https://elifesciences.org/articles/60586)
+- En algunas disciplinas como la Economía, incluso se avanzan los resultados. [Ejemplo en Economía y Management](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0327.2009.00238.x/abstract)
+- Si no se sigue una estructura al uso, puede es recomendable presentar la estructura del mismo. [Ejemplo](https://doi.org/10.1093/reseval/rvz014).
+
 ## Material y métodos
+
+- También referida como _Métodos_, _Datos y métodos_ o _Diseño metodológico_.
+- En esta sección se ofrecen dos tipos de información:
+    1. **Recogida y procesamiento de datos**. ¿Qué datos se han recogido? ¿De qué población? ¿Cuál es el tamaño de la muestra? ¿Cómo se han recogido? ¿Se han procesado? ¿Cómo? ¿Están accesibles? ¿Cómo se estructuran? ¿Qué pinta tienen? - [Un ejemplo de recogida de datos](https://doi.org/10.1093/reseval/rvw003) y [otro ejemplo de procesamiento de datos](https://doi.org/10.1016/j.joi.2018.11.002).
+    2. **Análisis y diseño metodológico**. ¿En qué consiste el análisis? ¿Qué técnicas se emplean? ¿ Se ha empleado algún software? ¿ Se ha elaborado un protocolo de trabajo? ¿Por qué esa metodología y no otra? [Un ejemplo de diseño metodológico](https://doi.org/10.31235/osf.io/tkzc5) y [un ejemplo de protocolo de trabajo](https://doi.org/10.1016/j.respol.2017.08.002).
 
 ## Resultados
 
+- En esta sección se incluyen la mayor parte de figuras y tablas.
+- Toda tabla o figura debe quedar reseñada en el texto y deberá figurar en el mismo orden en el que es nombrada.
+- Deberemos limitarnos a describir lo que ofrecen nuestros resultados sin entrar en valoraciones de ningún tipo.
+- Tampoco deberemos entrar a discutir las implicaciones de dichos resultados o si responden o no a los objetivos planteados en el trabajo.
+- Un error clásico es el de incluir cuestiones metodológicas (primero hicimos esto y como nos salió tal resultado, hicimos lo otro). [Un ejemplo de cómo referirnos a un análisis secuencial](https://doi.org/10.1371/journal.pone.0068258).
+
+**Consejo para estructurar los resultados**: 
+
+- Incluye primero una descripción general de los datos y luego incide en los diferentes aspectos que quieras analizar.
+- Crea subsecciones dentro de los resultados.
+- Intenta que estas subsecciones reflejen el contenido de cada una de tus preguntas de investigación. [Un ejemplo](https://doi.org/10.1016/j.joi.2018.11.002).
+
 ## Discusión
+
+En esta sección será donde valoraremos los resultados obtenidos en función a los objetivos declarados al comienzo del trabajo.
+
+Una posible estructura:
+
+1. Recordatorio del objetivo del paper y qué se ha hecho.
+2. Repaso de cada una de las preguntas de investigación, indicando los resultados obtenidos y discutiéndolos en relación a otros estudios.
+3. Reconocimiento de limitaciones tanto técnicas como conceptuales del estudio y llamadas a la precaución en la interpretación de los resultados
+
+Estas partes podrán ir todas juntas o en diferentes subsecciones. Aunque esta sería una opción, existen otras, pero es importante que todo el contenido descrito quede reflejado en el texto. [Un ejemplo](https://doi.org/10.1016/j.respol.2019.05.008) y [otro ejemplo](https://doi.org/10.1371/journal.pone.0228713).
 
 ## Secciones adicionales
 
-### Antecedentes/Revisión bibliográfica
+### Antecedentes/Revisión bibliográfica {-}
 
-### Marco conceptual/Hipótesis
+- Aparece después de la introducción e incluye la revisión de la bibliografía.
+- Debe ser una revisión bibliográfica dirigida, como una expansión de esa primera contextualización del problema de investigación. 
+- Fíjate en estos dos ejemplos que te incluyo. Tratan sobre el mismo tema pero desde dos enfoques totalmente diferentes: [Ejemplo 1](https://doi.org/10.1007/s11192-021-04167-8) y [Ejemplo 2](https://doi.org/10.1093/scipol/scy024).
 
-### Objetivos
+### Marco conceptual/Hipótesis {-}
 
-### Conclusiones
+- Suele ser muy habitual en algunas áreas de las Ciencias Sociales. 
+- Se distingue de la revisión bibliográfica en tanto en cuánto incluye una explicación de los fundamentos teóricos o conceptuales que los autores emplean. [Ejemplo](https://doi.org/10.1007/s11024-015-9271-8)
+- Cuando se trata de estudios explanatorios suele incluir una formulación de hipótesis. [Ejemplo](https://doi.org/10.1016/j.respol.2019.05.008)
+
+### Objetivos {-}
+
+Aunque normalmente vienen referidos en la introducción, en algunas ocasiones se presentan por separado antes o después de la revisión bibliográfica. [Un ejemplo](https://www.emerald.com/insight/content/doi/10.1108/OIR-10-2012-0169/full/html).
+
+### Conclusiones {-}
+
+- Cada vez más algunas revistas insisten en que las conclusiones del trabajo vengan separadas de la discusión. 
+- Incluye información referida a las implicaciones del trabajo y futuras líneas de investigación a abordar.

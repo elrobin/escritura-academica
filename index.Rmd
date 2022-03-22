@@ -24,6 +24,8 @@ url: 'https://elrobin.github.io/escritura-academica'
 
 **Imparten:** [Evaristo Jiménez-Contreras](https://www.ugr.es/en/staff/evaristo-jimenez-contreras), [Daniel Torres-Salinas](https://sites.google.com/go.ugr.es/torressalinas) y [Nicolás Robinson-García](https://nrobinsongarcia.com)
 
-Esta página web contiene el material impartido por Nicolás Robinson-García para la sesión sobre redacción científica. En esta sesión trataremos diferentes cuestiones prácticas sobre la preparación del manuscrito académico, edición y estilo.
+Esta página contiene el material impartido por Nicolás Robinson-García para la sesión sobre redacción científica. En esta sesión trataremos diferentes cuestiones prácticas sobre la preparación del manuscrito académico, edición y estilo.
+
+Ten en cuenta que este es un documento vivo, por lo que irá incorporando nuevos materiales con el paso del tiempo y puede que haya partes que estén aún incompletas.
 
 
